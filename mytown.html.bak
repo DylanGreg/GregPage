@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Insert web page title here</title>
+    <meta http-equiv="Content-Style-Type" content="text/css">
+    <meta name="generator" content="thesitewizard.com's Layout Wizard 4.0.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="all" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="tswnavbar.css">
+  </head>
+  <body>
+    <div id="tswcontainer" style="font-family: &quot;3DS Fonticon&quot;,&quot;Adobe Hebrew&quot;,&quot;Algerian&quot;,&quot;Jokerman&quot;; color: red;">
+      <div id="tswheader">
+        <!-- start of header section: insert your logo, etc, here -->
+        <p> <img src="images/download.jfif" alt="" style="width: 91px; height: 91px;">
+        </p>
+        <!-- end of header section: insert your logo, etc, above this line --> </div>
+      <div id="tswcontent">
+        <div id="tswcontproper">
+          <!-- start of content column: insert your content here -->
+          <h1 style="color: rgb(255, 0, 0); font-family: Arial, Helvetica, &quot;sans-serif&quot;, &quot;3DS Fonticon&quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(51, 204, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">My
+            Town</h1>
+          <p style="color: rgb(255, 0, 0); font-family: Arial, Helvetica, &quot;sans-serif&quot;, &quot;3DS Fonticon&quot;; font-size: 17.6px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(51, 204, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><br>
+          </p>
+          <p style="color: rgb(255, 0, 0); font-family: Arial, Helvetica, &quot;sans-serif&quot;, &quot;3DS Fonticon&quot;; font-size: 17.6px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(51, 204, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">If
+            you want a navigation menu for your side column that looks like the
+            one on thesitewizard.com, you can generate your own and customize
+            it, with the<span>&nbsp;</span><a href="https://www.thesitewizard.com/wizards/css-menu-buttons.shtml">Navigation
+              Menu Wizard</a>. It's free, just like the<span>&nbsp;</span><a href="https://www.thesitewizard.com/wizards/layout.shtml">Layout
+              Wizard</a><span>&nbsp;</span>that you used to create this.</p>
+          <p style="color: rgb(255, 0, 0); font-family: Arial, Helvetica, &quot;sans-serif&quot;, &quot;3DS Fonticon&quot;; font-size: 17.6px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(51, 204, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">And
+            if you want a contact form (ie, one that your visitors can use to
+            reach you), go to the<span>&nbsp;</span><a href="https://www.thesitewizard.com/wizards/feedbackform.shtml">Feedback
+              Form Wizard</a><span>&nbsp;</span>to create one. Yes, it's free
+            too.</p>
+          <p style="color: rgb(255, 0, 0); font-family: Arial, Helvetica, &quot;sans-serif&quot;, &quot;3DS Fonticon&quot;; font-size: 17.6px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(51, 204, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">Okay,
+            that's it. I've run out of meaningful things to say for this
+            placeholder content, and can't be bothered to think up any more
+            stuff that you're just going to delete anyway.</p>
+          <p style="color: rgb(255, 0, 0); font-family: Arial, Helvetica, &quot;sans-serif&quot;, &quot;3DS Fonticon&quot;; font-size: 17.6px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(51, 204, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">All
+            the best for your site!</p>
+          <p style="color: rgb(255, 0, 0); font-family: Arial, Helvetica, &quot;sans-serif&quot;, &quot;3DS Fonticon&quot;; font-size: 17.6px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(51, 204, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">&nbsp;</p>
+          <span><!-- end of content column: put your content above this line -->
+          </span></div>
+        <span> </span></div>
+      <span> </span>
+      <div id="tswsidecol">
+        <div id="tswsideproper"> <span><!-- start of side column: insert your navigation menu, etc, here --></span>
+          <div id="tswcssbuttons">
+            <ul>
+              <li><span><a href="index.html">Home</a></span></li>
+              <li><span><a href="aboutme.html">About Me</a></span></li>
+              <li><span><a href="mytown.html">My Town</a></span></li>
+            </ul>
+          </div>
+          <span><!-- end of side column: put your navigation menu, etc, above this line --></span>
+        </div>
+      </div>
+      <span> </span><span> </span>
+      <div id="tswfooter"><span>
+          <!-- start of footer section: insert your copyright notice, etc, here -->
+        </span>
+        <p><span> Placeholder content for the footer: please replace these words
+            with your real content. </span></p>
+        <span>
+          <!-- end of footer section: insert your copyright notice, etc, above this line --></span>
+      </div>
+    </div>
+  </body>
+</html>
