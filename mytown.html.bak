@@ -8,6 +8,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="all" href="styles.css">
     <link rel="stylesheet" type="text/css" href="tswnavbar.css">
+    <style>
+    body{
+      background-color: lightgreen;
+    }
+    </style>
   </head>
   <body>
     <div id="tswcontainer" style="font-family: &quot;3DS Fonticon&quot;,&quot;Adobe Hebrew&quot;,&quot;Algerian&quot;,&quot;Jokerman&quot;; color: red;">
@@ -26,11 +31,15 @@
           <p style="color: rgb(255, 0, 0); font-family: Arial, Helvetica, &quot;sans-serif&quot;, &quot;3DS Fonticon&quot;; font-size: 17.6px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(51, 204, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">I
             live in Madison New Jersey. It is in Morris County. I am a senior in
             Madison High School. The picture shown is of the downtown area.</p>
-          <h1 style="color: rgb(255, 0, 0); font-family: Arial, Helvetica, &quot;sans-serif&quot;, &quot;3DS Fonticon&quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(51, 204, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><a
-              href="https://www.thesitewizard.com/wizards/layout.shtml"><img src="images/download%20%282%29.jfif"
+          <h1 style="color: rgb(255, 0, 0); font-family: Arial, Helvetica, &quot;sans-serif&quot;, &quot;3DS Fonticon&quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(51, 204, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><a
+
+              href="https://www.thesitewizard.com/wizards/layout.shtml"><img src="images/download%20%282%29.jfif"
+
                 alt="picture of Madison NJ" title="HomeTown"></a></h1>
-          <h1 style="color: rgb(255, 0, 0); font-family: Arial, Helvetica, &quot;sans-serif&quot;, &quot;3DS Fonticon&quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(51, 204, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><a
-              href="https://www.thesitewizard.com/wizards/layout.shtml"><img src="file:///C:/Users/dlgregory/Documents/images/download%20%281%29.jfif"
+          <h1 style="color: rgb(255, 0, 0); font-family: Arial, Helvetica, &quot;sans-serif&quot;, &quot;3DS Fonticon&quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(51, 204, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><a
+
+              href="https://www.thesitewizard.com/wizards/layout.shtml"><img src="file:///C:/Users/dlgregory/Documents/images/download%20%281%29.jfif"
+
                 alt=""></a></h1>
           The town celebrates <em>Bottle Hill Day </em>every fall to honor the
           origins of the town.<br>
@@ -46,6 +55,7 @@
               <li><span><a href="index.html">Home</a></span></li>
               <li><span><a href="aboutme.html">About Me</a></span></li>
               <li><span><a href="mytown.html">My Town</a></span></li>
+              <li><a href="fun_facts.html">Fun Facts</a></li>
             </ul>
           </div>
           <span><!-- end of side column: put your navigation menu, etc, above this line --></span>
