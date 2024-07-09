@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>Welcome Page</title>
+    <title>Fun Facts</title>
     <meta http-equiv="Content-Style-Type" content="text/css">
     <meta name="generator" content="thesitewizard.com's Layout Wizard 4.0.0">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -13,18 +13,37 @@
     <div id="tswcontainer">
       <div id="tswheader">
         <!-- start of header section: insert your logo, etc, here -->
-        <p> <img src="images/download.jfif" alt="" style="width: 91px; height: 91px;">
-        </p>
+        <p> Placeholder content for your header section. Replace it with your
+          website's logo or name or page title or whatever. </p>
+        <p>&nbsp;</p>
         <!-- end of header section: insert your logo, etc, above this line --> </div>
       <div id="tswcontent">
-        <div id="tswcontproper">
+        <div id="tswcontproper" style="color: red;">
           <!-- start of content column: insert your content here -->
-          <h1>Welcome</h1>
-          I am Dylan Gregory and this is my first website. If you want more
-          information about me, check out my <em>About Me </em>or <em>My Town
-          </em>page.</div>
-        <div><br>
+          <h1>Fun Facts About Me!</h1>
+          My name is Dylan Gregory. I was born in Miami Florida on December 6th
+          2006. I lived in Florida until the 3rd grade when I moved up to
+          Madison New Jersey.<br>
           <p>&nbsp;</p>
+          <h1><img src="images/miami.jfif" alt=""></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <p>Some of my hobbies playing video games and drumming.</p>
+          <h1><img src="images/videogames.jpg" alt="picture of various video game controllers"
+
+              title="video game" style="width: 256px; height: 171px;"></h1>
+          <h1><img src="images/drums.jpg" alt="picture of drumkit on stage"
+
+              title="drum" style="width: 259px; height: 159px;"></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
           <!-- end of content column: put your content above this line --> </div>
       </div>
       <div id="tswsidecol">
@@ -44,8 +63,9 @@
       <div style="clear: both;"></div>
       <div id="tswfooter">
         <!-- start of footer section: insert your copyright notice, etc, here -->
-        <p><br>
-        </p>
+        <p> Placeholder content for the footer: please replace these words with
+          your real content. </p>
+        <h1></h1>
         <!-- end of footer section: insert your copyright notice, etc, above this line -->
       </div>
     </div>
