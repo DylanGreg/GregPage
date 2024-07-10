@@ -1,0 +1,22 @@
+:root {
+    --dog-width: 30vw;
+}
+
+img#dog {
+    position: relative;
+    width: var(--dog-width);
+     animation-name: dog-move;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out; 
+
+}
+
+@keyframes dog-move{
+    0%, 100%{
+        left: 0;
+    }
+    50%{
+        left: calc(100% - var(--dog-width));
+    }
+}
