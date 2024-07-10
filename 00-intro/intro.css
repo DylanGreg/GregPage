@@ -10,4 +10,5 @@
 
  body {
   background-color: darkcyan;
+  outline: 5px none lightgreen;
  }

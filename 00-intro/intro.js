@@ -8,6 +8,7 @@ const colorField = document.getElementById("color-field");
 const fontSizeField = document.getElementById("front-size-field");
 const clickButton = document.getElementById("click-button");
 const text = document.getElementById("text");
+const checkbox = document.getElementById("checkbox");
 const body = document.body;
 // let
 // var
@@ -18,4 +19,16 @@ function buttonPress(){
     body.style.backgroundColor = colorField.value;
     text.style.fontSize = `${fontSizeField.value}px`; // NOTE: the ` key is above th tab key
     let fail = '${fontSizeField.value}p'; 
+}
+
+function checkboxChange(){
+    let checked = checkbox.checked;
+    console.log(`The checkbox has state: ${checked}`)
+
+    if(checked) {
+        body.style.outlineStyle = "solid";
+    }
+    else {
+        body.style.outlineStyle = "none";
+    }
 }
