@@ -20,3 +20,4 @@ img#dog {
         left: calc(100% - var(--dog-width));
     }
 }
+
