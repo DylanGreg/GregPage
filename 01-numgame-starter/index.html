@@ -5,16 +5,45 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GIVE ME A TITLE!</title>
-    
+    <title>FIRST NUMBER GAME</title>
+    <link rel="stylesheet" href="./numgame.css">
     <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
 </head>
-<body> <!-- do something onload -->
+<body onload="loadGame()"> 
     <h1>Number Guessing Game</h1>
+    <label>Make a guess:</label>
+    <input id="num-field" type="number">
+
+    <button onclick="makeGuess()">MAKE GUESS</button>
+
+    <p id="message-text">50 is too low</p>
+    <br>
+    <br>
+    <br>
+    <br>
+    Choose new Minimum and Maximum values!
+    <br>
+    <br>
+    New Min
+    <input id="num-min" type="number">
+    <button onclick="changeMin()">MAKE NEW MIN</button>
+    <br>
+    <br>
+    New Max
+    <input id="num-max" type="number">
+    <button onclick="changeMax()">MAKE NEW MAX</button>
+    <br>
+    <br>
+    <br>
+    Confetti will be added for every guess you make so guess correct fast if you don't want your computer to crash!
+    <br>
+
 
     <!-- more elements here! -->
+    <script src="./numgame.js"></script>
 </body>
 </html>
