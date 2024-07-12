@@ -52,8 +52,57 @@ function wordsLoaded(){
 
 
     randomIndex = randInt(0,fiveLetterWords.length-1);
-    secret = fiveLetterWords[randomIndex];
+    secret = fiveLetterWords[randomIndex].toLowerCase();
 }
+
+const guessField = document.getElementById("guess-field");
+const feedbackText = document.getElementById("report-text")
+
+function changeGuess(){
+    let guess = guessField.value.toLowerCase();
+
+
+    //skip if less than 5 letters
+    if (guess.length < 5) return;
+    //skip and empty input if greater than 5 letters.
+    if (guess.length > 5){
+        guessField.value = "";
+        return;
+    }
+
+    console.log(`Guess: ${guess} and secret: "${secret}"`);
+
+    // SKIP and empty box if guess is not a word
+    if(!json.hasOwnProperty(guess)) {
+        console.log(`this IS NOT a word!`);
+        feedbackText.innerHTML += ` "${guess}" is not a word. Try again.<br>`;
+        guessCount++;
+        guessField.value = "";
+        return;
+    }
+
+    let correctPlacement = 0;
+    let guessCount = 0;
+    for (let i = 0; i < 5; i++){
+        if (guess[i] == secret[i]){
+            correctPlacement++;
+            
+            feedbackText.innerHTML += `<span class="correct">${guess[i]}</span>`
+        }
+        else {
+            feedbackText.innerHTML += `<span class="incorrect">${guess[i]}</span>`
+        }
+    }
+
+    if (correctPlacement == 5){
+        feedbackText.innerHTML += ` is correct! You took "${guessCount}" guesses`;
+    }
+    else{
+        feedbackText.innerHTML += ` has ${correctPlacement} in the correct place.<br>`;
+    }
+    guessField.value = "";
+    }
+    
 
 
 // TODO: write function isWord(word)
