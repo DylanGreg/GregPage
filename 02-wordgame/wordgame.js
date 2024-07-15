@@ -75,7 +75,7 @@ function changeGuess(){
     // SKIP and empty box if guess is not a word
     if(!json.hasOwnProperty(guess)) {
         console.log(`this IS NOT a word!`);
-        feedbackText.innerHTML += ` "${guess}" is not a word. Try again.<br>`;
+        feedbackText.innerHTML += `<br> "${guess}" is not a word. Try again.<br>`;
         guessCount++;
         guessField.value = "";
         return;
@@ -95,12 +95,23 @@ function changeGuess(){
     }
 
     if (correctPlacement == 5){
-        feedbackText.innerHTML += ` is correct! You took "${guessCount}" guesses`;
+        feedbackText.innerHTML += `<br> is correct! You took "${guessCount}" guesses.<br>`;
     }
     else{
-        feedbackText.innerHTML += ` has ${correctPlacement} in the correct place.<br>`;
+        feedbackText.innerHTML += `<br> has ${correctPlacement} in the correct place.<br>`;
     }
     guessField.value = "";
+    }
+
+    const hintButton = document.getElementById("click-button");
+    const hintNum = document.getElementById("hintNum");
+    const hintText = document.getElementById("hint-text");
+
+
+    function hintPress(){
+        let n = parseInt(hintNum.value);
+        let hint = secret.substring(n-1,n);
+        hintText.innerHTML += `the ${hintNum.value} letter of the word is ${hint}. <br>`;
     }
     
 

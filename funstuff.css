@@ -1,0 +1,13 @@
+body {
+    background-color: lightgreen;
+  }
+
+#mybox {
+    position: relative;
+    width: 500px;
+    height: 500px;
+    background-color: aquamarine;
+    border: 3px solid darkblue;
+    outline-style: ridge;  
+    margin: 5px 5px 10px 15px;
+  }
