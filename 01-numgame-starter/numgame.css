@@ -6,6 +6,22 @@
    4. * (all elements)
  */
 
- body {
-  background-color: greenyellow;
- }
+@font-face {
+  font-family: "tf2build";
+  src: url(./tf2-build/tf2build.ttf);
+}
+
+body {
+  background-color: rgb(184, 56, 59);
+  font-family: "tf2build";
+
+  input[type=text] {
+    width: 300px; /* Adjust width as needed */
+    height: 40px; /* Adjust height as needed */
+    padding: 10px; /* Adjust padding for internal spacing */
+    border: 1px solid #ccc; /* Border style */
+    border-radius: 5px; /* Rounded corners */
+    box-shadow: 0 0 5px rgba(0,0,0,0.1); /* Optional: Shadow effect */
+  }
+
+}
